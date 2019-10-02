@@ -1,0 +1,30 @@
+* {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: beige;
+  color: slategray;
+}
+
+#logo {
+  max-height: 20px;
+  max-width: 20px;
+}
+
+nav ul {
+  display: grid;
+  grid-template-columns: 7fr 1fr 1fr 1fr;
+  list-style-type: none;
+}
+
+header, header * {
+  width: 100%;
+  margin: 0 auto;
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  background-color:  mediumpurple;
+  color: white;
+}
+
+footer {
+  align
+}

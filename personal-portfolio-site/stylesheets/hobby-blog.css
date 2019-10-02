@@ -1,0 +1,14 @@
+li {
+  list-style-type: none;
+}
+
+img {
+  max-height: 400px;
+  max-width: 500px;
+}
+
+section ul {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
